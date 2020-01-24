@@ -1,0 +1,61 @@
+body {
+ background-image:url('primary.jfif');
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-blend-mode: hard-light;
+ 
+}
+
+.navbar {
+        font-weight: bolder;
+float: right;
+text-align: right;
+
+}
+
+h2 {
+    color: white;
+}
+
+.footer {
+    border: 3px solid black; 
+    text-align: center;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
+p {
+ color: white;
+ font-weight: bolder;
+ font-size: large;
+ text-align: center;
+}
+
+.main {
+    border: 2px solid orange;
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+table, th, td{
+    border: 1px solid black;
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h3{
+    color: white;
+
+    
+}
+address{
+    color:white;
+}
